@@ -68,11 +68,3 @@ Each result contains:
 - `timestamp`: When the check was completed
 
 ---
-
-##  Bonus Features (Optional)
-
-This version implements **retry logic** via the `--retries` flag, which retries failed requests with a 100ms delay. Additional bonuses such as periodic checking and summary statistics can be added.
-
----
-
-This tool is built using only the Rust standard library and the `reqwest` crate (with `blocking` feature), following academic constraints.

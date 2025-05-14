@@ -1,20 +1,20 @@
 [
   {
-    "url": "https://rubbish.link",
-    "action_status": { "Err": "error sending request for url (https://rubbish.link/): error trying to connect: dns error: failed to lookup address information: Name or service not known" },
-    "response_time_ms": 119,
-    "timestamp": "1747263962"
-  },
-  {
     "url": "https://google.com",
     "action_status": { "Ok": 200 },
-    "response_time_ms": 138,
-    "timestamp": "1747263962"
+    "response_time_ms": 129,
+    "timestamp": "1747264754"
+  },
+  {
+    "url": "https://rubbish.link",
+    "action_status": { "Err": "error sending request for url (https://rubbish.link/): error trying to connect: dns error: failed to lookup address information: Name or service not known" },
+    "response_time_ms": 174,
+    "timestamp": "1747264754"
   },
   {
     "url": "https://facebook.com",
     "action_status": { "Ok": 200 },
-    "response_time_ms": 513,
-    "timestamp": "1747263962"
+    "response_time_ms": 716,
+    "timestamp": "1747264755"
   }
 ]
